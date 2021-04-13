@@ -1,8 +1,14 @@
 # Text summarization with BERT using bert-extractive-summarizer
 
 ## To view the video
-* [Click here](https://youtu.be/pTHBZ6AyzOg)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=pTHBZ6AyzOg" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/pTHBZ6AyzOg?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+Or click on the image below
 
 [![Text summarization with BERT using bert-extractive-summarizer](http://img.youtube.com/vi/pTHBZ6AyzOg/0.jpg)](http://www.youtube.com/watch?v=pTHBZ6AyzOg)
 
